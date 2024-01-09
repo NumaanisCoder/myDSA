@@ -1,4 +1,4 @@
-class index{
+class Bitwise{
     public static void main(String[] args) {
 
 //Bitwise Operators
